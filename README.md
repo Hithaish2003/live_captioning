@@ -45,13 +45,13 @@ Fullscreen Display + Video Recording
 ▶️ How to Run the Project
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/scene-description-system.git
-cd scene-description-system
+git clone https://github.com/Hithaish2003/live_captioning.git
+cd live_captioning
 
 2️⃣ Install Dependencies
 pip install opencv-python ultralytics numpy
 
 3️⃣ Run the Application
-python scene_description_captioning.py
+python live_captioning.py
 
 Press q to stop recording and exit.
